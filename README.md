@@ -1,1 +1,2 @@
 # dino
+[project  dino]
